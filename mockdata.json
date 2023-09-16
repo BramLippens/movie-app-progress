@@ -1,0 +1,199 @@
+{
+  "items": [
+    {
+      "item": {
+        "meta": {
+          "title": "A Bronx Tale",
+          "id": "1607",
+          "year": "1993",
+          "poster": "https://image.tmdb.org/t/p/w185//sDbO6LmLYtyqAoFTPpRcMgPSCEO.jpg",
+          "type": "movie"
+        }
+      },
+      "progress": 139.51572,
+      "percentage": 2,
+      "watchedAt": 1693579447011
+    },
+    {
+      "item": {
+        "meta": {
+          "title": "Ghosted",
+          "id": "868759",
+          "year": "2023",
+          "poster": "https://image.tmdb.org/t/p/w185//liLN69YgoovHVgmlHJ876PKi5Yi.jpg",
+          "type": "movie"
+        }
+      },
+      "progress": 54.665635,
+      "percentage": 1,
+      "watchedAt": 1693410961086
+    },
+    {
+      "item": {
+        "meta": {
+          "title": "Modern Family",
+          "id": "1421",
+          "year": "2009",
+          "poster": "https://image.tmdb.org/t/p/w185//klL4yhwiU8aF4AuF5dCfJA9sRnS.jpg",
+          "type": "series",
+          "seasons": [
+            { "title": "Specials", "id": "147409", "number": 0 },
+            { "title": "Season 1", "id": "3751", "number": 1 },
+            { "title": "Season 2", "id": "3752", "number": 2 },
+            { "title": "Season 3", "id": "3753", "number": 3 },
+            { "title": "Season 4", "id": "3755", "number": 4 },
+            { "title": "Season 5", "id": "3756", "number": 5 },
+            { "title": "Season 6", "id": "62023", "number": 6 },
+            { "title": "Season 7", "id": "68804", "number": 7 },
+            { "title": "Season 8", "id": "78515", "number": 8 },
+            { "title": "Season 9", "id": "91749", "number": 9 },
+            { "title": "Season 10", "id": "108448", "number": 10 },
+            { "title": "Season 11", "id": "127046", "number": 11 }
+          ],
+          "seasonData": {
+            "id": "78515",
+            "number": 8,
+            "title": "Season 8",
+            "episodes": [
+              {
+                "id": "1206224",
+                "number": 1,
+                "title": "A Tale of Three Cities"
+              },
+              { "id": "1217262", "number": 2, "title": "A Stereotypical Day" },
+              { "id": "1225136", "number": 3, "title": "Blindsided" },
+              { "id": "1230088", "number": 4, "title": "Weathering Heights" },
+              {
+                "id": "1230789",
+                "number": 5,
+                "title": "Halloween 4: The Revenge of Rod Skyhook"
+              },
+              { "id": "1236044", "number": 6, "title": "Grab It" },
+              {
+                "id": "1236291",
+                "number": 7,
+                "title": "Thanksgiving Jamboree"
+              },
+              { "id": "1244438", "number": 8, "title": "The Alliance" },
+              { "id": "1245243", "number": 9, "title": "Snow Ball" },
+              { "id": "1250612", "number": 10, "title": "Ringmaster Keifth" },
+              { "id": "1252189", "number": 11, "title": "Sarge & Pea" },
+              {
+                "id": "1260346",
+                "number": 12,
+                "title": "Do You Believe In Magic"
+              },
+              { "id": "1266754", "number": 13, "title": "Do It Yourself" },
+              { "id": "1276226", "number": 14, "title": "Heavy Is the Head" },
+              { "id": "1266755", "number": 15, "title": "Finding Fizbo" },
+              { "id": "1276259", "number": 16, "title": "Basketball" },
+              { "id": "1285420", "number": 17, "title": "Pig Moon Rising" },
+              { "id": "1286809", "number": 18, "title": "Five Minutes" },
+              { "id": "1292637", "number": 19, "title": "Frank's Wedding" },
+              {
+                "id": "1305323",
+                "number": 20,
+                "title": "All Things Being Equal"
+              },
+              { "id": "1309426", "number": 21, "title": "Alone Time" },
+              { "id": "1311880", "number": 22, "title": "The Graduates" }
+            ]
+          }
+        },
+        "series": {
+          "seasonId": "78515",
+          "episodeId": "1244438",
+          "season": 8,
+          "episode": 8
+        }
+      },
+      "progress": 1298.04675,
+      "percentage": 100,
+      "watchedAt": 1694871916763
+    },
+    {
+      "item": {
+        "meta": {
+          "title": "Modern Family",
+          "id": "1421",
+          "year": "2009",
+          "poster": "https://image.tmdb.org/t/p/w185//klL4yhwiU8aF4AuF5dCfJA9sRnS.jpg",
+          "type": "series",
+          "seasons": [
+            { "title": "Specials", "id": "147409", "number": 0 },
+            { "title": "Season 1", "id": "3751", "number": 1 },
+            { "title": "Season 2", "id": "3752", "number": 2 },
+            { "title": "Season 3", "id": "3753", "number": 3 },
+            { "title": "Season 4", "id": "3755", "number": 4 },
+            { "title": "Season 5", "id": "3756", "number": 5 },
+            { "title": "Season 6", "id": "62023", "number": 6 },
+            { "title": "Season 7", "id": "68804", "number": 7 },
+            { "title": "Season 8", "id": "78515", "number": 8 },
+            { "title": "Season 9", "id": "91749", "number": 9 },
+            { "title": "Season 10", "id": "108448", "number": 10 },
+            { "title": "Season 11", "id": "127046", "number": 11 }
+          ],
+          "seasonData": {
+            "id": "78515",
+            "number": 8,
+            "title": "Season 8",
+            "episodes": [
+              {
+                "id": "1206224",
+                "number": 1,
+                "title": "A Tale of Three Cities"
+              },
+              { "id": "1217262", "number": 2, "title": "A Stereotypical Day" },
+              { "id": "1225136", "number": 3, "title": "Blindsided" },
+              { "id": "1230088", "number": 4, "title": "Weathering Heights" },
+              {
+                "id": "1230789",
+                "number": 5,
+                "title": "Halloween 4: The Revenge of Rod Skyhook"
+              },
+              { "id": "1236044", "number": 6, "title": "Grab It" },
+              {
+                "id": "1236291",
+                "number": 7,
+                "title": "Thanksgiving Jamboree"
+              },
+              { "id": "1244438", "number": 8, "title": "The Alliance" },
+              { "id": "1245243", "number": 9, "title": "Snow Ball" },
+              { "id": "1250612", "number": 10, "title": "Ringmaster Keifth" },
+              { "id": "1252189", "number": 11, "title": "Sarge & Pea" },
+              {
+                "id": "1260346",
+                "number": 12,
+                "title": "Do You Believe In Magic"
+              },
+              { "id": "1266754", "number": 13, "title": "Do It Yourself" },
+              { "id": "1276226", "number": 14, "title": "Heavy Is the Head" },
+              { "id": "1266755", "number": 15, "title": "Finding Fizbo" },
+              { "id": "1276259", "number": 16, "title": "Basketball" },
+              { "id": "1285420", "number": 17, "title": "Pig Moon Rising" },
+              { "id": "1286809", "number": 18, "title": "Five Minutes" },
+              { "id": "1292637", "number": 19, "title": "Frank's Wedding" },
+              {
+                "id": "1305323",
+                "number": 20,
+                "title": "All Things Being Equal"
+              },
+              { "id": "1309426", "number": 21, "title": "Alone Time" },
+              { "id": "1311880", "number": 22, "title": "The Graduates" }
+            ]
+          }
+        },
+        "series": {
+          "seasonId": "78515",
+          "episodeId": "1245243",
+          "season": 8,
+          "episode": 9
+        }
+      },
+      "progress": 107.21277,
+      "percentage": 8,
+      "watchedAt": 1694872043307
+    }
+  ],
+  "--version": 3
+}

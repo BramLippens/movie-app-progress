@@ -1,0 +1,11 @@
+{
+  "name": "Movie-web tracker",
+  "description": "this extension keeps track on what you are watching",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "author": "Bram Lippens",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Movie-web tracker"
+  }
+}
